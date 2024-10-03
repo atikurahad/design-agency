@@ -1,8 +1,21 @@
-# React + Vite
+# My Vite React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my Vite React application! This project is built with React, React Router, Tailwind CSS, and DaisyUI for a modern and responsive user interface.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fast development with Vite
+- Routing with React Router
+- Stylish components with Tailwind CSS and DaisyUI
+- Responsive design
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/atikurahad/design-agency
